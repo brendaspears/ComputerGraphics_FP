@@ -1,0 +1,1449 @@
+{
+  "accessors": [
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 25425,
+      "max": [
+        148.94035339355469,
+        230.88357543945312,
+        145.66529846191406
+      ],
+      "min": [
+        -152.10881042480469,
+        -205.50079345703125,
+        -230.63343811035156
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 305100,
+      "componentType": 5126,
+      "count": 25425,
+      "max": [
+        0.99991422891616821,
+        0.99996829032897949,
+        0.99994897842407227
+      ],
+      "min": [
+        -0.99996078014373779,
+        -0.99994713068008423,
+        -0.99994724988937378
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 25425,
+      "max": [
+        0.78431373834609985,
+        0.68627452850341797,
+        0.67843139171600342,
+        1
+      ],
+      "min": [
+        0.19215686619281769,
+        0.0039215688593685627,
+        0.0039215688593685627,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 133662,
+      "max": [
+        25424
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 610200,
+      "componentType": 5126,
+      "count": 12718,
+      "max": [
+        55.453807830810547,
+        58.964515686035156,
+        96.543869018554688
+      ],
+      "min": [
+        -112.29849243164062,
+        -94.771507263183594,
+        -106.2083740234375
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 762816,
+      "componentType": 5126,
+      "count": 12718,
+      "max": [
+        0.99930959939956665,
+        0.9999995231628418,
+        0.99981391429901123
+      ],
+      "min": [
+        -0.99960243701934814,
+        -0.99998486042022705,
+        -0.99979162216186523
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 406800,
+      "componentType": 5126,
+      "count": 12718,
+      "max": [
+        0.88627451658248901,
+        0.78431373834609985,
+        0.73333334922790527,
+        1
+      ],
+      "min": [
+        0.5372549295425415,
+        0.32549020648002625,
+        0.29411765933036804,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 534648,
+      "componentType": 5125,
+      "count": 43911,
+      "max": [
+        12717
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 915432,
+      "componentType": 5126,
+      "count": 9809,
+      "max": [
+        278.32901000976562,
+        406.5455322265625,
+        150.78446960449219
+      ],
+      "min": [
+        -315.52572631835938,
+        -165.90144348144531,
+        -340.65576171875
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1033140,
+      "componentType": 5126,
+      "count": 9809,
+      "max": [
+        0.99976378679275513,
+        0.99903064966201782,
+        0.99966055154800415
+      ],
+      "min": [
+        -0.99962151050567627,
+        -0.99999827146530151,
+        -0.99958145618438721
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 610288,
+      "componentType": 5126,
+      "count": 9809,
+      "max": [
+        0.90588235855102539,
+        0.78823530673980713,
+        0.78823530673980713,
+        1
+      ],
+      "min": [
+        0.87843137979507446,
+        0.69411766529083252,
+        0.69411766529083252,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 710292,
+      "componentType": 5125,
+      "count": 54306,
+      "max": [
+        9808
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1150848,
+      "componentType": 5126,
+      "count": 12774,
+      "max": [
+        338.48687744140625,
+        398.92288208007812,
+        189.95587158203125
+      ],
+      "min": [
+        -367.99078369140625,
+        -265.45040893554688,
+        -375.65411376953125
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1304136,
+      "componentType": 5126,
+      "count": 12774,
+      "max": [
+        0.99997234344482422,
+        0.99968433380126953,
+        0.99985504150390625
+      ],
+      "min": [
+        -0.99998325109481812,
+        -0.99978923797607422,
+        -0.99990123510360718
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 767232,
+      "componentType": 5126,
+      "count": 12774,
+      "max": [
+        0.74117648601531982,
+        0.45098039507865906,
+        0.45098039507865906,
+        1
+      ],
+      "min": [
+        0.74117648601531982,
+        0.45098039507865906,
+        0.45098039507865906,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 927516,
+      "componentType": 5125,
+      "count": 55908,
+      "max": [
+        12773
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1457424,
+      "componentType": 5126,
+      "count": 1125,
+      "max": [
+        58.041416168212891,
+        453.40213012695312,
+        0.57114195823669434
+      ],
+      "min": [
+        -97.049453735351562,
+        -254.60032653808594,
+        -322.02603149414062
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1470924,
+      "componentType": 5126,
+      "count": 1125,
+      "max": [
+        0.99918454885482788,
+        0.99972683191299438,
+        0.99808299541473389
+      ],
+      "min": [
+        -0.99346929788589478,
+        -0.99991339445114136,
+        -0.99948078393936157
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 971616,
+      "componentType": 5126,
+      "count": 1125,
+      "max": [
+        0.81176471710205078,
+        0.90196079015731812,
+        0.89803922176361084,
+        1
+      ],
+      "min": [
+        0.81176471710205078,
+        0.90196079015731812,
+        0.89803922176361084,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1151148,
+      "componentType": 5125,
+      "count": 6582,
+      "max": [
+        1124
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1484424,
+      "componentType": 5126,
+      "count": 440,
+      "max": [
+        -19.215263366699219,
+        446.53567504882812,
+        54.382827758789062
+      ],
+      "min": [
+        -114.78683471679688,
+        341.4332275390625,
+        -16.993707656860352
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1489704,
+      "componentType": 5126,
+      "count": 440,
+      "max": [
+        0.99928939342498779,
+        0.97733694314956665,
+        0.99637740850448608
+      ],
+      "min": [
+        -0.99896502494812012,
+        -0.97735399007797241,
+        -0.97830432653427124
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 989616,
+      "componentType": 5126,
+      "count": 440,
+      "max": [
+        0.80784314870834351,
+        0.58823531866073608,
+        0.58823531866073608,
+        1
+      ],
+      "min": [
+        0.80784314870834351,
+        0.58823531866073608,
+        0.58823531866073608,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1177476,
+      "componentType": 5125,
+      "count": 2628,
+      "max": [
+        439
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1494984,
+      "componentType": 5126,
+      "count": 35322,
+      "max": [
+        391.01156616210938,
+        485.94332885742188,
+        200.06906127929688
+      ],
+      "min": [
+        -522.23858642578125,
+        -476.77743530273438,
+        -417.10531616210938
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1918848,
+      "componentType": 5126,
+      "count": 35322,
+      "max": [
+        0.99996685981750488,
+        0.99999022483825684,
+        0.99999773502349854
+      ],
+      "min": [
+        -0.99979543685913086,
+        -0.99999040365219116,
+        -0.99997156858444214
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 996656,
+      "componentType": 5126,
+      "count": 35322,
+      "max": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "min": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1187988,
+      "componentType": 5125,
+      "count": 81423,
+      "max": [
+        35321
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2342712,
+      "componentType": 5126,
+      "count": 1316,
+      "max": [
+        334.63375854492188,
+        275.94110107421875,
+        219.39533996582031
+      ],
+      "min": [
+        -355.93753051757812,
+        -450.2557373046875,
+        -90.539443969726562
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2358504,
+      "componentType": 5126,
+      "count": 1316,
+      "max": [
+        0.98950314521789551,
+        0.99943619966506958,
+        0.99956828355789185
+      ],
+      "min": [
+        -0.99878275394439697,
+        -0.99944329261779785,
+        -0.99989163875579834
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1561808,
+      "componentType": 5126,
+      "count": 1316,
+      "max": [
+        0.81176471710205078,
+        0.90196079015731812,
+        0.89803922176361084,
+        1
+      ],
+      "min": [
+        0.81176471710205078,
+        0.90196079015731812,
+        0.89803922176361084,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1513680,
+      "componentType": 5125,
+      "count": 4758,
+      "max": [
+        1315
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2374296,
+      "componentType": 5126,
+      "count": 2222,
+      "max": [
+        -22.609018325805664,
+        488.621826171875,
+        121.07183074951172
+      ],
+      "min": [
+        -111.01947784423828,
+        391.373779296875,
+        38.279083251953125
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2400960,
+      "componentType": 5126,
+      "count": 2222,
+      "max": [
+        0.99992388486862183,
+        0.99962228536605835,
+        0.98323124647140503
+      ],
+      "min": [
+        -0.99995577335357666,
+        -0.99141198396682739,
+        -0.99966174364089966
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1582864,
+      "componentType": 5126,
+      "count": 2222,
+      "max": [
+        0.91372549533843994,
+        0.89803922176361084,
+        0.89803922176361084,
+        1
+      ],
+      "min": [
+        0.91372549533843994,
+        0.89803922176361084,
+        0.89803922176361084,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1532712,
+      "componentType": 5125,
+      "count": 13482,
+      "max": [
+        2221
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2427624,
+      "componentType": 5126,
+      "count": 5094,
+      "max": [
+        -21.22218132019043,
+        493.61605834960938,
+        126.27401733398438
+      ],
+      "min": [
+        -114.23641204833984,
+        362.5272216796875,
+        0.93816345930099487
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2488752,
+      "componentType": 5126,
+      "count": 5094,
+      "max": [
+        0.99976474046707153,
+        0.99958646297454834,
+        0.99933212995529175
+      ],
+      "min": [
+        -0.99998205900192261,
+        -0.99894428253173828,
+        -0.99931681156158447
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1618416,
+      "componentType": 5126,
+      "count": 5094,
+      "max": [
+        0.88627451658248901,
+        0.91764706373214722,
+        0.92549020051956177,
+        1
+      ],
+      "min": [
+        0.87843137979507446,
+        0.90980392694473267,
+        0.91764706373214722,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1586640,
+      "componentType": 5125,
+      "count": 22872,
+      "max": [
+        5093
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2549880,
+      "componentType": 5126,
+      "count": 18154,
+      "max": [
+        272.08120727539062,
+        394.632568359375,
+        111.31825256347656
+      ],
+      "min": [
+        -281.006103515625,
+        -147.63984680175781,
+        -320.59872436523438
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2767728,
+      "componentType": 5126,
+      "count": 18154,
+      "max": [
+        0.99992644786834717,
+        0.99998718500137329,
+        0.99999541044235229
+      ],
+      "min": [
+        -0.99998694658279419,
+        -0.99999779462814331,
+        -0.99998241662979126
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1699920,
+      "componentType": 5126,
+      "count": 18154,
+      "max": [
+        0.88627451658248901,
+        0.91764706373214722,
+        0.92549020051956177,
+        1
+      ],
+      "min": [
+        0.87450981140136719,
+        0.90980392694473267,
+        0.91764706373214722,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1678128,
+      "componentType": 5125,
+      "count": 46812,
+      "max": [
+        18153
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "E-learning UMCG (https://sketchfab.com/eLearningUMCG)",
+      "license": "CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)",
+      "source": "https://sketchfab.com/3d-models/heart-valves-and-auscultation-sites-89835764b1e045ee8b4921454254c7c9",
+      "title": "Heart, valves and auscultation sites"
+    },
+    "generator": "Sketchfab-7.80.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 1865376,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2985576,
+      "byteOffset": 1865376,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1990384,
+      "byteOffset": 4850952,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 6841336,
+      "uri": "scene.bin"
+    }
+  ],
+  "extensionsRequired": [
+    "KHR_materials_pbrSpecularGlossiness"
+  ],
+  "extensionsUsed": [
+    "KHR_materials_pbrSpecularGlossiness"
+  ],
+  "materials": [
+    {
+      "alphaMode": "BLEND",
+      "doubleSided": false,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            1,
+            1,
+            1,
+            0.87452651520000002
+          ],
+          "glossinessFactor": 0,
+          "specularFactor": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "name": "Heart"
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        1,
+        1,
+        1
+      ],
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            1,
+            0.96999277939999995,
+            0.96999277939999995,
+            1
+          ],
+          "glossinessFactor": 0,
+          "specularFactor": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "name": "Valves"
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            0.5,
+            0.5,
+            0.5,
+            1
+          ],
+          "glossinessFactor": 0,
+          "specularFactor": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "name": "Trachea"
+    },
+    {
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            1,
+            1,
+            1,
+            0
+          ],
+          "glossinessFactor": 0,
+          "specularFactor": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "name": "Lungs"
+    },
+    {
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            0.5,
+            0.5,
+            0.5,
+            0
+          ],
+          "glossinessFactor": 0,
+          "specularFactor": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "name": "Vertebral_discs"
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            0.7471265158,
+            0.7471265158,
+            0.7471265158,
+            1
+          ],
+          "glossinessFactor": 0,
+          "specularFactor": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "name": "Thyroid_gland"
+    },
+    {
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            0.5,
+            0.5,
+            0.5,
+            0
+          ],
+          "glossinessFactor": 0,
+          "specularFactor": [
+            0.089292847353391672,
+            0.073937424955616698,
+            0.044474776399359497
+          ]
+        }
+      },
+      "name": "Thorax"
+    },
+    {
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            0.47228479639999998,
+            0.57271756110000005,
+            0.58105775039999996,
+            0
+          ],
+          "glossinessFactor": 0,
+          "specularFactor": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "name": "Costal_cartilages"
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            0.5,
+            0.5,
+            0.5,
+            1
+          ],
+          "glossinessFactor": 0,
+          "specularFactor": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "name": "Ligament"
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            0.5,
+            0.5,
+            0.5,
+            1
+          ],
+          "glossinessFactor": 0,
+          "specularFactor": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "name": "material"
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            0.53941081339999997,
+            0.58466854639999999,
+            0.60330018019999998,
+            1
+          ],
+          "glossinessFactor": 0,
+          "specularFactor": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "name": "Tracheal_cartilages"
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Heart_Heart_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 2,
+            "NORMAL": 1,
+            "POSITION": 0
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Valves_Valves_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 6,
+            "NORMAL": 5,
+            "POSITION": 4
+          },
+          "indices": 7,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Trachea_Trachea_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 10,
+            "NORMAL": 9,
+            "POSITION": 8
+          },
+          "indices": 11,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Lungs_Lungs_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 14,
+            "NORMAL": 13,
+            "POSITION": 12
+          },
+          "indices": 15,
+          "material": 3,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Vertebral_discs_Vertebral_discs_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 18,
+            "NORMAL": 17,
+            "POSITION": 16
+          },
+          "indices": 19,
+          "material": 4,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Thyroid_gland_Thyroid_gland_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 22,
+            "NORMAL": 21,
+            "POSITION": 20
+          },
+          "indices": 23,
+          "material": 5,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Thorax_Thorax_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 26,
+            "NORMAL": 25,
+            "POSITION": 24
+          },
+          "indices": 27,
+          "material": 6,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Costal_cartilages_Costal_cartilages_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 30,
+            "NORMAL": 29,
+            "POSITION": 28
+          },
+          "indices": 31,
+          "material": 7,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Ligament_Ligament_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 34,
+            "NORMAL": 33,
+            "POSITION": 32
+          },
+          "indices": 35,
+          "material": 8,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Htc_Htc_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 38,
+            "NORMAL": 37,
+            "POSITION": 36
+          },
+          "indices": 39,
+          "material": 9,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Tracheal_cartilages_Tracheal_cartilages_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 42,
+            "NORMAL": 41,
+            "POSITION": 40
+          },
+          "indices": 43,
+          "material": 10,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.99707984924316406,
+        0.053311996161937714,
+        -0.054677315056324005,
+        0,
+        -0.053391862660646439,
+        0.9985736608505249,
+        0,
+        0,
+        0.054599326103925705,
+        0.002919323742389679,
+        0.99850410223007202,
+        0,
+        4.6267385482788086,
+        3.6144618988037109,
+        -3.5750281810760498,
+        1
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        -1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "36ff0c0a5e2f452db81c1eee398d66cb.fbx"
+    },
+    {
+      "children": [
+        4,
+        6,
+        8,
+        10,
+        12,
+        14,
+        16,
+        18,
+        20,
+        22,
+        24,
+        26
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        5
+      ],
+      "name": "Heart"
+    },
+    {
+      "mesh": 0,
+      "name": "Heart_Heart_0"
+    },
+    {
+      "children": [
+        7
+      ],
+      "name": "Valves"
+    },
+    {
+      "mesh": 1,
+      "name": "Valves_Valves_0"
+    },
+    {
+      "children": [
+        9
+      ],
+      "name": "Trachea"
+    },
+    {
+      "mesh": 2,
+      "name": "Trachea_Trachea_0"
+    },
+    {
+      "children": [
+        11
+      ],
+      "name": "Lungs"
+    },
+    {
+      "mesh": 3,
+      "name": "Lungs_Lungs_0"
+    },
+    {
+      "children": [
+        13
+      ],
+      "name": "Vertebral_discs"
+    },
+    {
+      "mesh": 4,
+      "name": "Vertebral_discs_Vertebral_discs_0"
+    },
+    {
+      "children": [
+        15
+      ],
+      "name": "Thyroid_gland"
+    },
+    {
+      "mesh": 5,
+      "name": "Thyroid_gland_Thyroid_gland_0"
+    },
+    {
+      "children": [
+        17
+      ],
+      "name": "Thorax"
+    },
+    {
+      "mesh": 6,
+      "name": "Thorax_Thorax_0"
+    },
+    {
+      "children": [
+        19
+      ],
+      "name": "Costal_cartilages"
+    },
+    {
+      "mesh": 7,
+      "name": "Costal_cartilages_Costal_cartilages_0"
+    },
+    {
+      "children": [
+        21
+      ],
+      "name": "Ligament"
+    },
+    {
+      "mesh": 8,
+      "name": "Ligament_Ligament_0"
+    },
+    {
+      "children": [
+        23
+      ],
+      "name": "Htc"
+    },
+    {
+      "mesh": 9,
+      "name": "Htc_Htc_0"
+    },
+    {
+      "children": [
+        25
+      ],
+      "name": "Tracheal_cartilages"
+    },
+    {
+      "mesh": 10,
+      "name": "Tracheal_cartilages_Tracheal_cartilages_0"
+    },
+    {
+      "children": [
+        27
+      ],
+      "matrix": [
+        -0.76225648335549345,
+        -0.11293731460467073,
+        -0.63734622973106381,
+        0,
+        -0.10407836698988997,
+        0.99323358546914053,
+        -0.051524151820611111,
+        0,
+        0.63885268028492626,
+        0.027059336022918806,
+        -0.76885307128655267,
+        0,
+        603647.4375,
+        89460.578125,
+        504697.28125,
+        1
+      ],
+      "name": "ZBrushDefault"
+    },
+    {
+      "name": ""
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}
+
